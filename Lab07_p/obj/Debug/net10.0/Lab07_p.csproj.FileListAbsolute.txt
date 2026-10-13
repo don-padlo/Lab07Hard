@@ -1,0 +1,14 @@
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\bin\Debug\net10.0\Lab07_p.exe
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\bin\Debug\net10.0\Lab07_p.deps.json
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\bin\Debug\net10.0\Lab07_p.runtimeconfig.json
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\bin\Debug\net10.0\Lab07_p.dll
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\bin\Debug\net10.0\Lab07_p.pdb
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.AssemblyInfoInputs.cache
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.AssemblyInfo.cs
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.csproj.CoreCompileInputs.cache
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.dll
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\refint\Lab07_p.dll
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.pdb
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\Lab07_p.genruntimeconfig.cache
+C:\Users\ivady\Documents\Lab07_Hard\Lab07_p\obj\Debug\net10.0\ref\Lab07_p.dll
