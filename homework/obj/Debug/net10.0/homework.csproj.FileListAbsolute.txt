@@ -1,0 +1,14 @@
+C:\Users\ivady\Documents\Lab07_Hard\homework\bin\Debug\net10.0\homework.exe
+C:\Users\ivady\Documents\Lab07_Hard\homework\bin\Debug\net10.0\homework.deps.json
+C:\Users\ivady\Documents\Lab07_Hard\homework\bin\Debug\net10.0\homework.runtimeconfig.json
+C:\Users\ivady\Documents\Lab07_Hard\homework\bin\Debug\net10.0\homework.dll
+C:\Users\ivady\Documents\Lab07_Hard\homework\bin\Debug\net10.0\homework.pdb
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.AssemblyInfoInputs.cache
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.AssemblyInfo.cs
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.dll
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\refint\homework.dll
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.pdb
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\homework.genruntimeconfig.cache
+C:\Users\ivady\Documents\Lab07_Hard\homework\obj\Debug\net10.0\ref\homework.dll
